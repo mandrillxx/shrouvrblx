@@ -1,0 +1,9 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/mandrillxx/shrouvdocs
+[submodule "cli"]
+	path = cli
+	url = https://github.com/mandrillxx/shrouvcli
+[submodule "engine"]
+	path = engine
+	url = https://github.com/mandrillxx/shrouvengine
