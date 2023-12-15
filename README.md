@@ -10,7 +10,7 @@
     Main Repository containing all ShrouvEngine packages, including the CLI, Engine & Documentation.
     <br/>
     <br/>
-    <a href="http://localhost:3000/docs/intro"><strong>Explore the docs »</strong></a>
+    <a href="./wiki"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/mandrillxx/shrouvrblx">View Demo</a>
@@ -54,11 +54,11 @@
 ## Getting Started
 
 ```bash
-cd docs
-npm install
-npm run start
+cd shrouvrblx
+npm run install
+npm run new
 ```
-Then visit https://localhost:3000/ if it doesn't automatically open it in a new tab. The documentation provides all usage details.
+Then visit [the wiki](./wiki) to continue setting up your shrouv experience. The documentation provides all usage details.
 
 ### Prerequisites
 
@@ -87,7 +87,7 @@ npm run install
 npm run new
 ```
 
-_For more examples, please refer to the [Documentation](http://localhost:3000/docs/intro#generate-a-new-project)_
+_For more examples, please refer to the [Documentation](./wiki)_
 
 ## Roadmap
 
