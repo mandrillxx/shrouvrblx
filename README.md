@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/mandrillxx/shrouvrblx">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/512/6008/6008504.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">ShrouvRBLX - Engine </h3>
@@ -48,6 +48,8 @@
 ## Screenshots
 ![](images/screenshot1.png) ![](images/screenshot2.png)
 ![](images/screenshot3.png) ![](images/screenshot4.png)
+![](images/screenshot5.png) ![](images/screenshot6.png)
+![](images/screenshot7.png)
 
 ## Getting Started
 
