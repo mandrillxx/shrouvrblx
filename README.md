@@ -10,7 +10,7 @@
     Main Repository containing all ShrouvEngine packages, including the CLI, Engine & Documentation.
     <br/>
     <br/>
-    <a href="./wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mandrillxx/shrouvrblx/wiki"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/mandrillxx/shrouvrblx">View Demo</a>
@@ -58,7 +58,7 @@ cd shrouvrblx
 npm run install
 npm run new
 ```
-Then visit [the wiki](./wiki) to continue setting up your shrouv experience. The documentation provides all usage details.
+Then visit [the wiki](https://github.com/mandrillxx/shrouvrblx/wiki) to continue setting up your shrouv experience. The documentation provides all usage details.
 
 ### Prerequisites
 
@@ -87,7 +87,7 @@ npm run install
 npm run new
 ```
 
-_For more examples, please refer to the [Documentation](./wiki)_
+_For more examples, please refer to the [Documentation](https://github.com/mandrillxx/shrouvrblx/wiki)_
 
 ## Roadmap
 
