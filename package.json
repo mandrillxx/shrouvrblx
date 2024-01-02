@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "bash scripts/install.sh",
-    "new": "cd cli && npm run start",
+    "start": "cd cli && npm run start",
     "build": "cd engine && npm run build && npm pack"
   },
   "author": "",
