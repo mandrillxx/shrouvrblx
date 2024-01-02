@@ -7,3 +7,6 @@
 [submodule "engine"]
 	path = engine
 	url = https://github.com/mandrillxx/shrouvengine
+[submodule "messor2"]
+	path = messor2
+	url = https://github.com/mandrillxx/messor2
